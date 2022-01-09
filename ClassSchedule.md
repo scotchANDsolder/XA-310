@@ -10,7 +10,7 @@
     - [Computational Thinking](https://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)  by Jeannette M. Wing
     - [What is JavaScript?](https://www.hackreactor.com/blog/what-is-javascript-used-for) 
   - [Setting up](/Documents/settingup.md): Text Editors, Managing your files, etc. 
-  -[Your very first Computer Program!](/Documents/settingup.md)    
+  - [Your very first Computer Program!](/Documents/settingup.md)    
 
 #### WEEK 2 (Online)
 
