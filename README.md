@@ -7,11 +7,12 @@ M/W 10:20 AM – 12:10 PM | Course credits: 3
 
 **EMAIL:** narulaab@msu.edu
 
-Key Links:
+**Important Links**:
 - [**Class Schedule**](/ClassSchedule.md) 
 - [**Assignments**](url)
 - [**Resources**](url)
 - [**Documents**](url)
+***
 
 # Syllabus
 - [ Overview ](#overview)
