@@ -8,9 +8,8 @@
 - **W	1/12**
   - Read for Class Discussion: 
     - [Computational Thinking](https://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)  by Jeannette M. Wing
-    - [What is Programming/Coding?](https://www.youtube.com/watch?v=upDLs1sn7g4)
-    - [What is JavaScript?](https://javascript.info/intro#what-is-javascript) 
-    - 
+    - [What is Programming/Coding?](https://hackr.io/blog/what-is-programming)
+    - [What is JavaScript?](https://www.youtube.com/watch?v=nItSSTwBvSU) 
   - [Setting up](/Documents/settingup.md): Text Editors, Managing your files, etc. 
   - [Your very first Computer Program!](/Documents/firstprogram.md)    
 
