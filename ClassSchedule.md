@@ -16,7 +16,7 @@
 #### WEEK 2 (Online)
 
 - **M	1/17**
-  - Variables & Conditionals
+  - NO CLASS: MLK DAY
 - **W	1/19**
   - Variables & Conditionals
   - Review: Cake Baking Problem
