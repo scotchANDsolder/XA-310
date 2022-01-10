@@ -6,9 +6,11 @@
 - **M	1/10**
   - First day of class - introduction, overview, syllabus, expectations, etc. 
 - **W	1/12**
-  - Discuss: 
+  - Read for Class Discussion: 
     - [Computational Thinking](https://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)  by Jeannette M. Wing
-    - [What is JavaScript?](https://www.hackreactor.com/blog/what-is-javascript-used-for) 
+    - [What is Programming/Coding?](https://www.youtube.com/watch?v=upDLs1sn7g4)
+    - [What is JavaScript?](https://javascript.info/intro#what-is-javascript) 
+    - 
   - [Setting up](/Documents/settingup.md): Text Editors, Managing your files, etc. 
   - [Your very first Computer Program!](/Documents/firstprogram.md)    
 
