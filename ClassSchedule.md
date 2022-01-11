@@ -19,7 +19,7 @@
 - **M	1/17**
   - NO CLASS: MLK DAY
 - **W	1/19**
-  - Variables & Conditionals
+  - [Variables](/Document/variables.md) & [Conditionals](/Documents/conditionals.md)
   - Review: Cake Baking Problem
 
 #### WEEK 3 (Online)
