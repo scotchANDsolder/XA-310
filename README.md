@@ -7,11 +7,12 @@ M/W 10:20 AM – 12:10 PM | Course credits: 3
 
 **EMAIL:** narulaab@msu.edu
 
-Key Links:
-- [**Class Schedule**](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/ClassSchedule.md) 
+**Important Links**:
+- [**Class Schedule**](/ClassSchedule.md) 
 - [**Assignments**](url)
 - [**Resources**](url)
 - [**Documents**](url)
+***
 
 # Syllabus
 - [ Overview ](#overview)

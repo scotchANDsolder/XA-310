@@ -6,18 +6,23 @@
 - **M	1/10**
   - First day of class - introduction, overview, syllabus, expectations, etc. 
 - **W	1/12**
-  - Discuss: 
+  - Read for Class Discussion: 
     - [Computational Thinking](https://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)  by Jeannette M. Wing
-    - [What is JavaScript?](https://www.hackreactor.com/blog/what-is-javascript-used-for) 
-  - [Setting up](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/Documents/settingup.md): Text Editors, Managing your files, etc. 
-  -[Your very first Computer Program!](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/Documents/firstprogram.md)    
+      - [Notes](/Documents/compthinking.md)   
+    - [What is Programming/Coding?](https://hackr.io/blog/what-is-programming)
+    - [What is JavaScript?](https://www.youtube.com/watch?v=nItSSTwBvSU) 
+  - Do [Jam Board Activity](https://jamboard.google.com/d/1CteIBg4GicjIR3SPdqJBnASkEAc1ZyohZnXIJN3ARKo/edit?usp=sharing)
+  - [Setting up](/Documents/settingup.md): Text Editors, Managing your files, etc. 
+  - [Your very first Computer Program!](/Documents/firstprogram.md)    
 
 #### WEEK 2 (Online)
 
 - **M	1/17**
-  - Variables & Conditionals
+  - NO CLASS: MLK DAY
 - **W	1/19**
-  - Variables & Conditionals
+  - Read for Class Discussion: 
+    - [Variables](/Documents/variables.md) & [Conditionals](/Documents/conditionals.md)
+  - Example of Variables & Conditionals
   - Review: Cake Baking Problem
 
 #### WEEK 3 (Online)
@@ -36,9 +41,9 @@
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
 - **W	2/9**
- - Assignment #1 DUE
- - JavaScript Objects e.g. Math() & Date()
- - Review Assigment 1
+  - Assignment #1 DUE
+  - JavaScript Objects e.g. Math() & Date()
+  - Review Assigment 1
 
 #### WEEK 6
 - **M	2/14**: Recitation (Online)
