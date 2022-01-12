@@ -1,10 +1,10 @@
 ### Computational Thinking....
 
-builds on the power and limits of computing processes, whether they are executed by a human or by a machine.
+**builds on the power and limits of computing processes, whether they are executed by a human or by a machine.**
 
-confronts the riddle of machine intelligence: What can humans do better than computers? and What can computers do better than humans? Most fundamentally it addresses the question: What is computable?
+**confronts the riddle of machine intelligence: What can humans do better than computers? and What can computers do better than humans? Most fundamentally it addresses the question: What is computable?**
 
-is a fundamental skill for everyone, not just for computer scientists.
+**is a fundamental skill for everyone, not just for computer scientists.**
 
 involves solving problems, designing systems, and understanding human behavior, by drawing on the concepts fundamental to computer science.
 
@@ -24,7 +24,7 @@ is recognizing both the virtues and the dangers of aliasing, or giving someone o
 
 is recognizing both the cost and power of indirect addressing and procedure call.
 
-is judging a program not just for correctness and efficiency but for aesthetics, and a system’s design for simplicity and elegance.
+**is judging a program not just for correctness and efficiency but for aesthetics, and a system’s design for simplicity and elegance.**
 
 is using abstraction and decomposition when attacking a large complex task or designing a large complex system.
 
@@ -34,7 +34,7 @@ is choosing an appropriate representation for a problem or modeling the relevant
 
 is using invariants to describe a system’s behavior succinctly and declaratively.
 
-is having the confidence we can safely use, modify, and influence a large complex system without understanding its every detail.
+**is having the confidence we can safely use, modify, and influence a large complex system without understanding its every detail.**
 
 is modularizing something in anticipation of multiple users or prefetching and caching in anticipation of future use.
 
@@ -54,4 +54,4 @@ is using massive amounts of data to speed up computation.
 
 is making trade-offs between time and space and between processing power and storage capacity.
 
-is a grand vision to guide computer science educators, researchers, and practitioners as we act to change society’s image of the field.
+**is a grand vision to guide computer science educators, researchers, and practitioners as we act to change society’s image of the field.**
