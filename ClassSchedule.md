@@ -8,6 +8,7 @@
 - **W	1/12**
   - Read for Class Discussion: 
     - [Computational Thinking](https://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)  by Jeannette M. Wing
+      - [Notes](/Documents/compthinking.md)   
     - [What is Programming/Coding?](https://hackr.io/blog/what-is-programming)
     - [What is JavaScript?](https://www.youtube.com/watch?v=nItSSTwBvSU) 
   - Do [Jam Board Activity](https://jamboard.google.com/d/1CteIBg4GicjIR3SPdqJBnASkEAc1ZyohZnXIJN3ARKo/edit?usp=sharing)
