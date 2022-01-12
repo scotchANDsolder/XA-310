@@ -20,7 +20,8 @@
 - **M	1/17**
   - NO CLASS: MLK DAY
 - **W	1/19**
-  - [Variables](/Documents/variables.md) & [Conditionals](/Documents/conditionals.md)
+  - Read for Class Discussion: 
+    - [Variables](/Documents/variables.md) & [Conditionals](/Documents/conditionals.md)
   - Example of Variables & Conditionals
   - Review: Cake Baking Problem
 
