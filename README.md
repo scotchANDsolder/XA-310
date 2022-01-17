@@ -9,7 +9,7 @@ M/W 10:20 AM – 12:10 PM | Course credits: 3
 
 **Important Links**:
 - [**Class Schedule**](/ClassSchedule.md) 
-- [**Assignments**](url)
+- [**Assignments**](/Assignments.md)
 - [**Resources**](url)
 - [**Documents**](url)
 ***
