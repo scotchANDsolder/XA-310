@@ -4,7 +4,7 @@
 
 Given an array of 50 US states and a separate array of 13 Canadian provinces, create a new third array that only shows items from each list that are 8 characters or longer; print this third array, sorted alphabetically, to the console.
 
-You will use loops, conditionals, and arrays to complete this.
+You will use functions, loops, conditionals, and arrays to complete this.
 
 #### Getting Started
 Plan your strategy - decompose the problem into smaller, discrete parts that you can solve individually.
