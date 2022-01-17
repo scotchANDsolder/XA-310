@@ -28,15 +28,15 @@
 #### WEEK 3 (Online)
 - **M	1/24**: Recitation 
 - **W	1/26**
-  - Functions
+  - [Functions](Documents/functions.md)
   
 
 #### WEEK 4 
 
 - **M	1/31**: Recitation (Online)
 - **W	2/2**
-  - Arrays & Loops
-  - Introduce: Assignment #1
+  - [Arrays](Documents/arrays.md) & [Loops](/Documents/loops.md)
+  - Introduce: [Assignment #1](/Assignments/Assignment01.md) DUE 2/9
 
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
