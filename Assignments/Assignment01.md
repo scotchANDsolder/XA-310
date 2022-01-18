@@ -53,5 +53,5 @@ List of items to be shipped & their weights. These weights are in **kgs**
 - Transport Rover: 1200 kgs
 - Backup Power Generators: 1500 kgs
 - Water and Sanitation System: 600 kgs
-   - Communication Antennas: 700 kgs 
+- Communication Antennas: 700 kgs 
   
