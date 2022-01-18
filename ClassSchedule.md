@@ -22,8 +22,9 @@
 - **W	1/19**
   - Read for Class Discussion: 
     - [Variables](/Documents/variables.md) & [Conditionals](/Documents/conditionals.md)
-  - Example of Variables & Conditionals
   - Review: Cake Baking Problem
+  - Example of Variables & Conditionals
+  - Introduce: [Assignment #1](/Assignments/Assignment01.md) DUE 1/26
 
 #### WEEK 3 (Online)
 - **M	1/24**: Recitation 
@@ -36,7 +37,7 @@
 - **M	1/31**: Recitation (Online)
 - **W	2/2**
   - [Arrays](Documents/arrays.md) & [Loops](/Documents/loops.md)
-  - Introduce: [Assignment #1](/Assignments/Assignment01.md) DUE 2/9
+  - Introduce: [Assignment #2](/Assignments/Assignment02.md) DUE 2/9
 
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
