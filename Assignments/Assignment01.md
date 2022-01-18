@@ -1,5 +1,5 @@
-### Your First JavaScript Program
-**DUE 2/9**
+### Making Decisions
+**DUE 1/26**
 
 #### The Problem
 
