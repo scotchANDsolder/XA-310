@@ -23,7 +23,7 @@
   - Read for Class Discussion: 
     - [Variables](/Documents/variables.md) & [Conditionals](/Documents/conditionals.md)
   - Review: Cake Baking Problem
-  - Example of Variables & Conditionals
+  - Example of [Variables & Conditionals](/CodeFiles/conditionalsExample.html)
   - Introduce: [Assignment #1](/Assignments/Assignment01.md) DUE 1/26
 
 #### WEEK 3 (Online)
