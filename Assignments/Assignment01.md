@@ -10,7 +10,7 @@ Your head of Logistics Col. Sheila Lamar knows that this will be difficult task.
 
 #### The Problem
 
-Given the load capacity of a particular ship, write a program that prints out its Cargo Manifest i.e. a list of all items that can be carried safely on board. Each item has a specific weight so you must ensure that your do not overload the ship!
+Given the load capacity of a particular ship, write a program that prints out its Cargo Manifest i.e. a list of all items that can be carried safely on board. Each item has a specific weight so you must ensure that you do not overload the ship!
 
 You will use variables and conditionals to complete this assignment. 
 
