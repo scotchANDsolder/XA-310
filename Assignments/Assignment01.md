@@ -22,21 +22,21 @@ Detail this strategy and your logic using pseudo-code before you begin writing a
 1. Create an HTML document, named "yourlastname_01.html"
 2. Inside a <script> tag, create a JavaScript program that does the following:
    - Begin by declearing the ship load capacity varible (see below) 
-   - Create your own variables for all the items to be shipped. Set them as either 1 or 0 depending on whether you want to put load them on the ship or not.
+   - Create your own variables for all the items to be shipped. Set them as either 1 or 0 depending on whether you want to put them on the ship or not.
    - Using multiple if statements check if an item is loaded on the ship or not and print the name of the item to the console
    - Add all the weights of the loaded supplies.
    - If the total weight is *less* than load capacity of the ship then print "Items loaded safely and ready to depart" to the console
    - If the total weight is *more* than load capacity of the ship then print "Overloaded, try again" to the console.
-    - You may try again by changing the variables for items to 1 and/or 0  
+      - You may try again by changing the variables for items to 1 and/or 0  
 
-  You must submit your HTML file by uploading it to D2L by 5pm on the due date
+ You must submit your HTML file by uploading it to D2L by 5pm on the due date
 
 #### Submitting Your Work
-You must submit a single HTML document containing your JavaScript code with comments that show your process - how you started to think of the problem, what steps you needed to take, what was important to focus on, etc..
+You must submit a single HTML document containing your JavaScript code with **comments** that show your process - how you started to think of the problem, what steps you needed to take, what was important to focus on, etc..
 
 #### The variables:
 
-Ship load capacity in the Atreides fleet. These weights are in **metric tons**
+Load capacity of the largest ship in the Atreides fleet. This weight is in **metric tons**
 
 ```
 const ImperialTransporterCapcaity = 5 // metric tons
@@ -52,5 +52,6 @@ List of items to be shipped & their weights. These weights are in **kgs**
 - Zero Gravity Basket Ball Supplies: 100 kgs
 - Transport Rover: 1200 kgs
 - Backup Power Generators: 1500 kgs
-- 
+- Water and Sanitation System: 600 kgs
+- Communication Antennas: 700 kgs 
   
