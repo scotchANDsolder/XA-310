@@ -42,9 +42,8 @@
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
 - **W	2/9**
-  - Assignment #1 DUE
   - JavaScript Objects e.g. Math() & Date()
-  - Review Assigment 1
+  
 
 #### WEEK 6
 - **M	2/14**: Recitation (Online)
