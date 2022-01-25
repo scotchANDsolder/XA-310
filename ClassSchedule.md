@@ -30,6 +30,7 @@
 - **M	1/24**: Recitation 
 - **W	1/26**
   - [Functions](Documents/functions.md)
+  - Introduce: [Assignment #2](/Assignments/Assignment02.md) DUE 2/2
   
 
 #### WEEK 4 
@@ -37,7 +38,7 @@
 - **M	1/31**: Recitation (Online)
 - **W	2/2**
   - [Arrays](Documents/arrays.md) & [Loops](/Documents/loops.md)
-  - Introduce: [Assignment #2](/Assignments/Assignment02.md) DUE 2/9
+  - Introduce: [Assignment #3](/Assignments/Assignment03.md) DUE 2/9
 
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
