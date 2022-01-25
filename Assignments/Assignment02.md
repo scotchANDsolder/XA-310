@@ -23,7 +23,7 @@ Detail this strategy and your logic using pseudo-code before you begin writing a
 2. Inside a <script> tag, create a JavaScript program with the following:
     - Put a random number between 1 & 10 and assign it to a **const** variable
     - Create a function called **checkGuess()** that takes in 2 parameter i.e. the random number and the user's guess
-      - This function will compare these 2 numbers and provide the apporiate feedback to the user (as shown above in the problem statement)
+      - This function will compare these 2 numbers and provide the apporiate feedback to the user using console.log (as shown above in the problem statement)
     - Use the **prompt()** function 3 times to get a reponse from the user and call the **checkGuess()** to verify the guesses
  3. **Bonus**: Can you stop the program if the users get the correct answer on the 1st or 2nd try?
     - HINT: You will have to use another varible the checks in the number has been guessed or not
