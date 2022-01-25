@@ -26,7 +26,7 @@ Detail this strategy and your logic using pseudo-code before you begin writing a
       - This function will compare these 2 numbers and provide the apporiate feedback to the user using console.log (as shown above in the problem statement)
     - Use the **prompt()** function 3 times to get a reponse from the user and call the **checkGuess()** to verify the guesses
  3. **Bonus**: Can you stop the program if the users get the correct answer on the 1st or 2nd try?
-    - HINT: You will have to use another varible the checks in the number has been guessed or not
+    - HINT: You will have to use another varible that checks if the number has been guessed or not. If the user has guess it correctly, then there is no need to prompt the user again for an input.
    
 You must submit your HTML file by uploading it to D2L *before class* on the due date
 
