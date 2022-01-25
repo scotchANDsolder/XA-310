@@ -80,7 +80,7 @@ Instead of having to write 'Math.floor(Math.random() * 256)' over and over, you 
 #### Some helpful Functions
 - [prompt()](https://www.w3schools.com/jsref/met_win_prompt.asp) : Asks for an input from the user
 - [parseInt()](https://www.w3schools.com/jsref/jsref_parseint.asp): Converts String to Integers. Very helpful when taking inputs from the user
-- [Math.random()](https://www.w3schools.com/js/js_random.asp): Returns a random number between 0 and 1
+- [Math.random()](https://www.w3schools.com/js/js_random.asp): Returns a random number between 0 and 1 (*excluding 1*)
 - [Math.floor()](https://www.w3schools.com/jsref/jsref_floor.asp): This rounds a number DOWNWARDS to the nearest integer, and returns the result.
   - Math.random() used with Math.floor() can be used to return random integers. 
  
