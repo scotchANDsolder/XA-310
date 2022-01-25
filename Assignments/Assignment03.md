@@ -12,7 +12,7 @@ Plan your strategy - decompose the problem into smaller, discrete parts that you
 
 Detail this strategy and your logic using pseudo-code before you begin writing actual JavaScript.
 
-1. Create an HTML document, named "yourlastname_02.html"
+1. Create an HTML document, named "yourlastname_03.html"
 2. Inside a <script> tag, create a JavaScript program that:
    - Contains the two arrays below - one for the states, one for the provinces
    - Loops through each array
