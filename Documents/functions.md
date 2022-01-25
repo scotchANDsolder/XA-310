@@ -75,3 +75,12 @@ function rgb() {
 This example shows a function named ***rgb()*** that generates a random RGB value by calling another function three times to get a random number between 0 and 255.
 
 Instead of having to write 'Math.floor(Math.random() * 256)' over and over, you can just ask that function to do the calculation for you and build a valid RGB string by adding the necessary commas and parentheses.
+
+
+#### Some helpful Functions
+- [prompt()](https://www.w3schools.com/jsref/met_win_prompt.asp) : Asks for an input from the user
+- [parseInt()](https://www.w3schools.com/jsref/jsref_parseint.asp): Converts String to Integers. Very helpful when taking inputs from the user
+- [Math.random()](https://www.w3schools.com/js/js_random.asp): Returns a random number between 0 and 1
+- [Math.floor()](https://www.w3schools.com/jsref/jsref_floor.asp): This rounds a number DOWNWARDS to the nearest integer, and returns the result.
+  - Math.random() used with Math.floor() can be used to return random integers. 
+ 
