@@ -1,0 +1,46 @@
+<script>
+	
+	
+	function checkAge(num1){
+
+		if(isNaN(num1)){ //This checks if user input is NOT a number
+			return "Error: Please enter a number"
+
+		}
+
+		if(num1 >= 18){
+			return "You can drive now!"
+		}
+		else{
+			let yearsLeft = 18 - num1
+
+			return "You need to wait for "+ yearsLeft+ " years"
+		}
+
+
+	}
+
+
+
+	let userAge = prompt("Please enter your age")
+	let userAgeInt = parseInt(userAge)
+	console.log(checkAge(userAgeInt))
+
+	userAge = prompt("Please enter your age")
+	userAgeInt = parseInt(userAge)
+	console.log(checkAge(userAgeInt))
+
+
+	
+	
+
+
+
+
+
+
+
+
+</script>
+
+Functions Examples
