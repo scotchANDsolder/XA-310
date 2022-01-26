@@ -30,6 +30,7 @@
 - **M	1/24**: Recitation 
 - **W	1/26**
   - [Functions](Documents/functions.md)
+  - In Class Examples: [Functions](/CodeFiles/functionsExample.html), [Functions Inside of Functions](/CodeFiles/functionsInsideofFunctionsExample.html), [Random Integers](/CodeFiles/randomIntegersExample.html) and [Shopping List with Functions](/Codefiles/conditionalswithFunctionsExample.html)
   - Introduce: [Assignment #2](/Assignments/Assignment02.md) DUE 2/2
   
 
