@@ -16,14 +16,15 @@ Detail this strategy and your logic using pseudo-code before you begin writing a
 2. Inside a <script> tag, create a JavaScript program that:
    - Contains the two arrays below - one for the states, one for the provinces
    - Loops through each array
-   - Calls a function for each item. The function should accept two arguments:
+   - Calls a function for each item in the array. The function should accept 3 arguments:
+      - A string i.e. the name of state or province
       - The name of a third array, where matches are stored
       - The length of the string needed for a match (in this case, the number 8)
     - If the string is **greater or equal to** eight characters, add the item to a new array
     - If the string is **less than** 8 characters, print "The string XXX is less than 8 characters" to the console
     - When finished with the loop, print out the list of matches, sorted alphabetically.
 
-  You must submit your HTML file by uploading it to D2L by 5pm on the due date
+  You must submit your HTML file by uploading it to D2L before class on the due date
 
 #### Submitting Your Work
 You must submit a single HTML document containing your JavaScript code and a document (preferably PDF) with your process - how you started to think of the problem, what steps you needed to take, what was important to focus on, etc..
