@@ -57,7 +57,6 @@
 #### WEEK 7
 - **M	2/21**: Recitation (Online)
 - **W	2/23**
-  -  
 
 #### WEEK 8 
 - **M	2/28**: Recitation (Online)
