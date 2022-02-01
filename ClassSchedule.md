@@ -44,23 +44,27 @@
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
 - **W	2/9**
-  - JavaScript Objects e.g. Math() & Date()
+  - JavaScript [Objects](Documents/objects.md)
   - Introduce: Assignment #4 DUE 2/16
   
 
 #### WEEK 6
 - **M	2/14**: Recitation (Online)
 - **W	2/16**
-  - More Objects
+  - More Objects & Built-in Objects: [Math() & Date()](Documents/mathanddateobj.md)
   - Introduce: Assignment #5 DUE 3/2   
 
 #### WEEK 7
 - **M	2/21**: Recitation (Online)
 - **W	2/23**
+  - Basic Algorithms
 
 #### WEEK 8 
 - **M	2/28**: Recitation (Online)
 - **W	3/2**
+  - More Algorithms
+  - Discuss: [Inside OKCupid: Math of Online Dating](https://www.youtube.com/watch?v=m9PiPlRuy6E) 
+  - Discuss: [Code Bias](https://www.youtube.com/watch?v=m9PiPlRuy6E)  
 
 #### WEEK 9
 - **M	3/7** Spring Break
