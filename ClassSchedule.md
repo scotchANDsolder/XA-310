@@ -64,7 +64,7 @@
 - **W	3/2**
   - More Algorithms
   - Discuss: [Inside OKCupid: Math of Online Dating](https://www.youtube.com/watch?v=m9PiPlRuy6E) 
-  - Discuss: [Code Bias](https://www.youtube.com/watch?v=m9PiPlRuy6E)  
+  - Discuss: [Code Bias](https://www.netflix.com/title/81328723)  
 
 #### WEEK 9
 - **M	3/7** Spring Break
