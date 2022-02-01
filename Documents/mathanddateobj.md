@@ -49,8 +49,11 @@ let monthOfYear = dateObj.getMonth();
 
 console.log("Day of Week: " + days[dayOfWeek]);
 console.log("Month of Year: " + months[monthOfYear]);
-Finally, you can also provide values when creating a new Date() object; this will allow you to figure out what day of the week, for example, a particular date falls on:
+```
 
+
+Finally, you can also provide values when creating a new **Date()** object; this will allow you to figure out what day of the week, for example, a particular date falls on:
+```
 let birthday = new Date('March 29, 1992');
 console.log(birthday);
 console.log(birthday.getDay());
