@@ -53,6 +53,5 @@ Finally, you can also provide values when creating a new Date() object; this wil
 
 let birthday = new Date('March 29, 1992');
 console.log(birthday);
-```
-
 console.log(birthday.getDay());
+```
