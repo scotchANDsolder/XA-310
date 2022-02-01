@@ -45,11 +45,14 @@
 - **M	2/7**: Recitation (Online)
 - **W	2/9**
   - JavaScript Objects e.g. Math() & Date()
+  - Introduce: Assignment #4 DUE 2/16
   
 
 #### WEEK 6
 - **M	2/14**: Recitation (Online)
 - **W	2/16**
+  - More Objects
+  - Introduce: Assignment #5 DUE 3/2   
 
 #### WEEK 7
 - **M	2/21**: Recitation (Online)
