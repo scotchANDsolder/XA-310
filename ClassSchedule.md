@@ -38,14 +38,16 @@
 
 - **M	1/31**: Recitation (Online)
 - **W	2/2**
-  - [Arrays](Documents/arrays.md) & [Loops](/Documents/loops.md)
+  - Reviewed Assignment 2  
+  - [Loops](/Documents/loops.md)
   - Introduce: [Assignment #3](/Assignments/Assignment03.md) DUE 2/9
 
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
 - **W	2/9**
+  - [Arrays](Documents/arrays.md)  
   - JavaScript [Objects](Documents/objects.md)
-  - Introduce: Assignment #4 DUE 2/16
+  - Introduce: [Assignment #4](/Assignments/Assignment04.md) DUE 2/16
   
 
 #### WEEK 6
