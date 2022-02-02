@@ -39,7 +39,7 @@
 - **M	1/31**: Recitation (Online)
 - **W	2/2**
   - Reviewed Assignment 2  
-  - [Loops](/Documents/loops.md) & [In Class Example](/Documents/loops.md)
+  - [Loops](/Documents/loops.md) & [In Class Example](/CodeFiles/loopsExample.html)
   - Introduce: [Assignment #3](/Assignments/Assignment03.md) DUE 2/9
 
 #### WEEK 5
