@@ -52,8 +52,7 @@
 #### WEEK 6
 - **M	2/14**: Recitation (Online)
 - **W	2/16**
-  - JavaScript [Objects](Documents/objects.md)
-  - More Objects & Built-in Objects: [Math() & Date()](Documents/mathanddateobj.md)
+  - JavaScript [Objects](Documents/objects.md) & Built-in Objects: [Math() & Date()](Documents/mathanddateobj.md)
   - Introduce: Assignment #5 DUE 3/2   
 
 #### WEEK 7
