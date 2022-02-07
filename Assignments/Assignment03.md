@@ -4,7 +4,7 @@ DUE 2/9
 
 Using only **for loops** create the following patterns:
 
-- **Pattern 1** : Print out the first 99 [Natural Number](https://byjus.com/maths/natural-numbers/)
+- **Pattern 1** : Print out the first 99 [Natural Numbers](https://byjus.com/maths/natural-numbers/)
 - **Pattern 2** : Print out the all even numbers from 1 to 99 
 - **Pattern 3** : Print out all odd numbers between 42 and 142
 - **Pattern 4** : Print out the first 20 numbers in the following sequence:
