@@ -12,8 +12,9 @@ Sort each of these arrays alphabetically and print out their contents to the con
 
 For example:
 - There are 4 states that have 4 or more National Parks. They are Alaska, California, Colorado and Utah
+- There are X states with 1 to 3 National Parks. They are... etc.
 
-... etc.
+NOTE: Feel free to format the output as you wish.
 
 You will use functions, loops, conditionals, and arrays to complete this.
 
