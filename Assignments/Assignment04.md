@@ -4,7 +4,7 @@
 #### The Problem
 
 Given a two dimensional array of 50 US states and the number of National Parks in each state (See below), create 3 new arrays which have the following:
-- 1st Array: States with more 4 or more National Park
+- 1st Array: States with 4 or more National Park
 - 2nd Array: States with 1 to 3 National Parks
 - 3rd Array: States with no National Parks 
 
