@@ -8,10 +8,26 @@
 	// var butterPrice = 6
 
 
-	var supplList = ["Eggs","Flour","Sugar","Frosting","Candles","Butter"]	
+	var shortList = []
+
+	//var supplList = ["Eggs","Flour","Sugar","Frosting","Candles","Butter"]	
 	var priceList = [8,6,11,15,4,6] //A list of the price for each item
 
-	console.log(supplList[4]) //Counting of arrays begins at 0 ( not at 1)
+	console.log(priceList)
+
+	//Adds 1 to each price item
+	for(var i = 0; i < priceList.length; i = i+1){
+
+		if (i >=2 && i <=4) //Put 2th to 4th items in my new list
+
+		shortList.push(priceList[i])
+				
+	}
+
+
+	console.log(shortList)
+
+
 
 
 
