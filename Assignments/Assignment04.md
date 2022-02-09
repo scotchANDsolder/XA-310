@@ -3,8 +3,8 @@
 
 #### The Problem
 
-Given a two dimensional array of 50 US states and the number of National Parks in each state (See below), create a 3 new arrays which have the following:
-- 1st Array: States with more than & equal to 4 National Park
+Given a two dimensional array of 50 US states and the number of National Parks in each state (See below), create 3 new arrays (1D only) which have the following:
+- 1st Array: States with 4 or more National Park
 - 2nd Array: States with 1 to 3 National Parks
 - 3rd Array: States with no National Parks 
 
@@ -12,8 +12,9 @@ Sort each of these arrays alphabetically and print out their contents to the con
 
 For example:
 - There are 4 states that have 4 or more National Parks. They are Alaska, California, Colorado and Utah
+- There are X states with 1 to 3 National Parks. They are... etc.
 
-... etc.
+NOTE: Feel free to format the output as you wish.
 
 You will use functions, loops, conditionals, and arrays to complete this.
 

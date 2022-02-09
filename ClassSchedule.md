@@ -44,25 +44,25 @@
 
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
-- **W	2/9**
+- **W	2/9** (In-person)
   - [Arrays](Documents/arrays.md)  
   - Introduce: [Assignment #4](/Assignments/Assignment04.md) DUE 2/16
   
 
 #### WEEK 6
 - **M	2/14**: Recitation (Online)
-- **W	2/16**
+- **W	2/16** (In-person)
   - JavaScript [Objects](Documents/objects.md) & Built-in Objects: [Math() & Date()](Documents/mathanddateobj.md)
   - Introduce: Assignment #5 DUE 3/2   
 
 #### WEEK 7
 - **M	2/21**: Recitation (Online)
-- **W	2/23**
+- **W	2/23** (Online)
   - Basic Algorithms
 
 #### WEEK 8 
 - **M	2/28**: Recitation (Online)
-- **W	3/2**
+- **W	3/2** (In-person)
   - More Algorithms
   - Discuss: [Inside OKCupid: Math of Online Dating](https://www.youtube.com/watch?v=m9PiPlRuy6E) 
   - Discuss: [Code Bias](https://www.netflix.com/title/81328723)
