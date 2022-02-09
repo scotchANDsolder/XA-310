@@ -46,7 +46,7 @@
 - **M	2/7**: Recitation (Online)
 - **W	2/9** (In-person)
   - [Arrays](Documents/arrays.md)  
-  - Examples: [Arrays](CodeFiles/arrays.md) & [2D Arrays](CodeFiles/arrays2d.md)
+  - Examples: [Arrays](CodeFiles/arrays.html) & [2D Arrays](CodeFiles/arrays2d.html)
   - Introduce: [Assignment #4](/Assignments/Assignment04.md) DUE 2/16
   
 
