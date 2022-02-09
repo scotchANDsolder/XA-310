@@ -89,7 +89,7 @@ Absences due to Covid - sickness, having to be isolated based on exposure, etc. 
 ### Assignments
 Course assignments will focus on programming tasks well as conceptual work that expresses ideas or demonstrates understanding in writing or other media.
 
- - Programming / Writing Assignments: ~8 projects, 85 %
+ - Programming / Writing Assignments: ~10-12 projects, 85 %
    - These projects will focus on implementation, analysis, and documentation of of specific programming concepts.
 
 - Class Participation: 15%
