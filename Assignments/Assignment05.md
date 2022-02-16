@@ -50,7 +50,7 @@ Plan your strategy - decompose the problem into smaller, discrete parts that you
 
 1. Create an HTML document, named "yourlastname_05.html"
 2. Inside a <script> tag, create a JavaScript program that does the following:
-   - Create a House object with properties and methods as described above. Feel free to make up the values of each of the variables (Set the currentlyonMarket ver
+   - Create a House object with properties and methods as described above. Feel free to make up the values of each of the variables.
    - Verify that the _displayHouse()_ function works properly
    - Add 2 bedrooms
    - Call _displayHouse()_ to verfiy the bedrooms were added
