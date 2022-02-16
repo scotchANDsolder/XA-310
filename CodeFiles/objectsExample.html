@@ -1,0 +1,38 @@
+<script>
+
+
+	let item1 = {
+		name: "eggs",
+		price: 8,
+
+		inflation : function(){
+			this.price = this.price + 1
+			
+
+		},
+
+		giveDiscount : function(amtPrct){
+			this.price = this.price - (this.price*amtPrct / 100)
+
+			
+		}
+
+	}
+
+
+
+	console.log("Before inflation, price is " + item1.price)
+	item1.inflation()
+
+
+
+	console.log("Price after inflation is "+item1.price)
+
+	console.log("Price before discount is " + item1.price)
+	item1.giveDiscount(20)
+	console.log("Price after 20 % discount is "+item1.price)
+
+	
+
+
+</script>

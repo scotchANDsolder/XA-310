@@ -1,0 +1,90 @@
+<script>
+
+
+	let item1 = {
+		name: "eggs",
+		price: 8,
+
+		inflation : function(){
+			this.price = this.price + 1
+			
+
+		},
+
+		giveDiscount : function(amtPrct){
+			this.price = this.price - (this.price*amtPrct / 100)
+
+			
+		}
+
+	}
+
+	let item2 = {
+		name: "sugar",
+		price: 10,
+
+		inflation : function(){
+			this.price = this.price + 1
+			
+
+		},
+
+		giveDiscount : function(amtPrct){
+			this.price = this.price - (this.price*amtPrct / 100)
+
+			
+		}
+
+	}
+
+	let item3 = {
+		name: "flour",
+		price: 12,
+
+		inflation : function(){
+			this.price = this.price + 1
+			
+
+		},
+
+		giveDiscount : function(amtPrct){
+			this.price = this.price - (this.price*amtPrct / 100)
+
+			
+		}
+
+	}
+
+
+
+
+	var itemList = [item1,item2,item3]
+
+
+	for(let i = 0 ; i < itemList.length; i++){
+		console.log(itemList[i].price)
+
+	}
+
+	for(let i = 0; i < itemList.length; i++){
+		itemList[i].inflation()
+	}
+
+	console.log("After inflation")
+	for(let i = 0 ; i < itemList.length; i++){
+		console.log(itemList[i].price)
+
+	}
+
+
+
+
+
+
+	
+
+
+	
+
+
+</script>
