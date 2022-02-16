@@ -54,6 +54,7 @@
 - **M	2/14**: Recitation (Online)
 - **W	2/16** (In-person)
   - JavaScript [Objects](Documents/objects.md) & Built-in Objects: [Math() & Date()](Documents/mathanddateobj.md)
+  - In Class Example [1](CodeFiles/objectsExample.html) & [2](CodeFiles/objectsExample2.htm)
   - Introduce: [Assignment #5](Assignments/Assignment05.md) DUE 2/23   
 
 #### WEEK 7
