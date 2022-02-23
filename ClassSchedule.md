@@ -69,7 +69,7 @@
 - **M	2/28**: Recitation (Online)
 - **W	3/2** (In-person)
   - Discuss [Code Bias] & [Pros & Cons of Algorithms]
-  - More Algorithms
+  - More Algorithms & Flowcharts
   - Introduce: Assignment #7 DUE 3/16   
 
 #### WEEK 9
