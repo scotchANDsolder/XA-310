@@ -60,14 +60,17 @@
 #### WEEK 7
 - **M	2/21**: Recitation (Online)
 - **W	2/23** (Online)
-  - Basic Algorithms
+  - [Basic Algorithms](Documents/algorithms.md)
+  - Look: [Moral Machine](https://www.moralmachine.net/)
+  - Watch: [Inside OKCupid: Math of Online Dating](https://www.youtube.com/watch?v=m9PiPlRuy6E) 
+  - Watch : [Algorithmic Bias] (https://www.youtube.com/watch?v=gV0_raKR2UQ)
+  - Recommended Watch : [Code Bias](https://www.netflix.com/title/81328723)
+  - Introduce: [Assignment #6](Assignments/Assignment06.md) DUE 3/2 
 
 #### WEEK 8 
 - **M	2/28**: Recitation (Online)
 - **W	3/2** (In-person)
   - More Algorithms
-  - Discuss: [Inside OKCupid: Math of Online Dating](https://www.youtube.com/watch?v=m9PiPlRuy6E) 
-  - Discuss: [Code Bias](https://www.netflix.com/title/81328723)
   - Introduce: Assignment #6 DUE 3/16   
 
 #### WEEK 9
