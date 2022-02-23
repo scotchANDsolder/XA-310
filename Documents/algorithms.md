@@ -33,4 +33,17 @@ One frequent task in developing computer programs is to _look_ for certain types
 ##### Example of Sorting
 <img src="https://user-images.githubusercontent.com/70717743/155252583-4b3ea616-91bb-41cc-b878-e4bba386737a.png" width="50%"/>
 
+### Features of algorithms
+
+- **Unambiguous** − Algorithm should be clear and unambiguous. Each of its steps (or phases), and their inputs/outputs should be clear and must lead to only one meaning.
+
+- **Input** − An algorithm should have well-defined inputs.
+
+- **Output** − An algorithm should have well-defined outputs, and should match the desired output.
+
+- **Finiteness** − Algorithms must terminate after a finite number of steps.
+
+- **Feasibility** − Should be feasible with the available resources.
+
+- **Independent** − An algorithm should have step-by-step directions, which should be independent of any programming code.
 
