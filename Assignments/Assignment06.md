@@ -4,7 +4,7 @@ DUE 3/2
 
 Complete the following:
 - Read: [Pros & Cons of Algorthimic Society](https://www.pewresearch.org/internet/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/)
-- Watch: [Code Bias](https://www.pewresearch.org/internet/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/)
+- Watch: [Code Bias](https://www.netflix.com/title/81328723)
 - Look at: [MIT Moral Machine](https://www.moralmachine.net/) - Click on _Start Judging_
 
 
