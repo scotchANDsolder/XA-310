@@ -61,15 +61,17 @@
 - **M	2/21**: Recitation (Online)
 - **W	2/23** (Online)
   - [Basic Algorithms](Documents/algorithms.md)
-  - Look: [Moral Machine](https://www.moralmachine.net/)
   - Watch: [Inside OKCupid: Math of Online Dating](https://www.youtube.com/watch?v=m9PiPlRuy6E) 
-  - Watch : [Algorithmic Bias] (https://www.youtube.com/watch?v=gV0_raKR2UQ)
-  - Recommended Watch : [Code Bias](https://www.netflix.com/title/81328723)
-  - Introduce: [Assignment #6](Assignments/Assignment06.md) DUE 3/2 
+  - Watch : [Algorithmic Bias](https://www.youtube.com/watch?v=gV0_raKR2UQ)
+  - Look: [Moral Machine](https://www.moralmachine.net/)
+  - **Home Work**:
+    - Watch: [Code Bias](https://www.netflix.com/title/81328723)
+    - Read: [Pros & Cons of Algorithms](https://www.pewresearch.org/internet/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/)    
 
 #### WEEK 8 
 - **M	2/28**: Recitation (Online)
 - **W	3/2** (In-person)
+  - Discuss [Code Bias] & [Pros & Cons of Algorithms]
   - More Algorithms
   - Introduce: Assignment #6 DUE 3/16   
 
