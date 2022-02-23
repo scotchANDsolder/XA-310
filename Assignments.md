@@ -4,3 +4,4 @@
 - [Assignment # 3](/Assignments/Assignment03.md): Number Patterns
 - [Assignment # 4](/Assignments/Assignment04.md): Working with Arrays
 - [Assignment # 5](/Assignments/Assignment05.md): Creating Objects
+- [Assignment # 6](/Assignments/Assignment06.md): Algorithmics Bias
