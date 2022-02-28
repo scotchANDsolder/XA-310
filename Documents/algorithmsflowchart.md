@@ -15,3 +15,14 @@ For example:
 - **Flowchart**:
 
 ![image](https://user-images.githubusercontent.com/70717743/156026164-76723854-870e-465a-ba3a-811b592d5990.png)
+
+
+### Symbols used in a Flow Chart
+
+| Symbol | Purpose | Description |
+| --------------- | --------------- | --------------- |
+| ![image](https://user-images.githubusercontent.com/70717743/156036619-57352f3f-a541-4610-8ed6-3beb76bffea3.png) | Flow Line | Indicates the flow of logic by connecting symbols. |
+| ![image](https://user-images.githubusercontent.com/70717743/156036746-871bb404-7a33-4349-a680-7c1d1eee20f3.png) | Terminal (Start/Stop) | Represents the start and the end of a flowchart |
+| ![image](https://user-images.githubusercontent.com/70717743/156036771-e313e817-cde8-485d-8be7-200b64303544.png) | Input/Output | Used for input and output operation |
+| ![image](https://user-images.githubusercontent.com/70717743/156036836-3673de41-0f4c-446d-a50d-dc5ecd36d23a.png) | Processing | Used for arithmetic operations and data manipulations |
+| ![image](https://user-images.githubusercontent.com/70717743/156036863-e9f2cef4-2275-45ab-a574-c4867bc7a8ec.png) | Decision | Used for decision making between two or more alternatives. |
