@@ -69,8 +69,8 @@
 - **M	2/28**: Recitation (Online)
 - **W	3/2** (In-person)
   - Discuss [Code Bias] & [Pros & Cons of Algorithms]
-  - Algorithms & Flowcharts
-  - Introduce: Assignment #7 DUE 3/16   
+  - [Algorithms & Flowcharts](Documents/algorithmsflowchart.md)
+  - Introduce: [Assignment #7](Assignments/Assignment07.md) DUE 3/16   
 
 #### WEEK 9
 - **M	3/7** Spring Break- NO CLASS
