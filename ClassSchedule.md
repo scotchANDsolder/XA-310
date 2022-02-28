@@ -60,7 +60,7 @@
 #### WEEK 7
 - **M	2/21**: Recitation (Online)
 - **W	2/23** (Online)
-  - [Basic Algorithms](Documents/algorithms.md)
+  - [Intro Algorithms](Documents/algorithms.md)
   - Watch: [Inside OKCupid: Math of Online Dating](https://www.youtube.com/watch?v=m9PiPlRuy6E) 
   - Watch : [Algorithmic Bias](https://www.youtube.com/watch?v=gV0_raKR2UQ)
   - Introduce: [Assignment #6](Assignments/Assignment06.md) DUE 3/2
@@ -69,36 +69,52 @@
 - **M	2/28**: Recitation (Online)
 - **W	3/2** (In-person)
   - Discuss [Code Bias] & [Pros & Cons of Algorithms]
-  - More Algorithms & Flowcharts
+  - Algorithms & Flowcharts
   - Introduce: Assignment #7 DUE 3/16   
 
 #### WEEK 9
-- **M	3/7** Spring Break
-- **W	3/9** Spring Break
+- **M	3/7** Spring Break- NO CLASS
+- **W	3/9** Spring Break - NO CLASS
 
 #### WEEK 10
 - **M	3/14**: Recitation (Online)
 - **W	3/16**
+  - Search & Sorting Algorithms
+  - Introduce: Assignment #8 DUE 3/23 
 
 #### WEEK 11
 - **M	3/21**: Recitation (Online)
 - **W	3/23**
+  - More JavaScript Objects
+  - Algorithms + Objects 
+  - Introduce: Assignment #9 DUE 3/30
+  
+
 #### WEEK 12
 - **M	3/28**: Recitation (Online)
 - **W	3/30**
+  - JavaScript Libraries & DOM
+  - Intro to Data Visualization
+  - Introduce: Assignment #10 DUE 4/6
 
 #### WEEK 13
 - **M	4/4**: Recitation (Online)
 - **W	4/6**
+  - Introduce: Final Project DUE 4/25  
 
 #### WEEK 14
 - **M	4/11**: Recitation (Online)
 - **W	4/13**
+  - Project Consultations  
+
 #### WEEK 15
 - **M	4/18**: Recitation (Online)
 - **W	4/20**
+  - Project Consultations
 
 #### WEEK 16
-- **M	4/25**: Recitation (Online)
+- **M	4/25**
+  - Final Presentations 
 - **W	4/27**
+ - Final Presentations 
 
