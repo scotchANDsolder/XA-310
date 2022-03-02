@@ -1,6 +1,6 @@
 # Algorithms & Flowcharts
 
-DUE 3/10 by 10:20 AM
+DUE 3/18 by 10:20 AM
 
 Create flowcharts that determine the algorithm for the following problems/situations. Ensure you expand in as much detail as possible, so that are not ambigious steps. Imagine you give these flowchart to a
 robot, will the machine be able to follow your instructions:
