@@ -19,6 +19,7 @@ For example, algorithm one might perform slightly worse in terms of time and res
 
 However, with a very large set of data the differences might be much more dramatic as the resource usage for algorithm one grows exponentially while the algorithm two grows in a linear manner. In this scenario it is worth the initial effort to implement the more complex algorithm.
 
+
 ### Measuring Performance
 In computing, the performance of algorithms can be described using a mathematical notation called [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation). The "o" refers to the order of magnitude of a function, indicating a worst-case scenario of an algorithm's performance based on the number (n) of inputs.
 
@@ -29,6 +30,9 @@ An O(n) algorithm is said to be linear, meaning that it would take you, at most,
 For operations where you might have to loop through nested sets of data, you might end up with a O(n2), where the execution time is determined by the square of the number of items. Something like a bubble sort is this type of algorithm.
 
 There are other types of performance types - cubic, logarithmic, exponential - all of which might have benefits and drawbacks in particularly applications.
+
+Here is an amazing [visualization tool](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) to compare the efficies of various sorting algorithms. 
+
 
 ## Some examples of sorting algorithms
 
