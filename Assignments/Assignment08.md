@@ -6,7 +6,7 @@ For this assignment, you will need to pick any two (other that bubble sort) Java
 
 #### Requirements
 Download this starter file and rename it to use your last name, in lowercase:
-- [lastname_08.zip](CodeFiles/lastname_08.zip)
+- [lastname_08.zip](https://github.com/scotchANDsolder/XA-310/raw/main/CodeFiles/lastname_08.zip)
 
 In the index.html file, there is code to create three arrays of random numbers:
 
