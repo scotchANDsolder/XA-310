@@ -62,7 +62,7 @@ var arr = [234, 43, 55, 63,  5, 6, 235, 547];
 console.log(bubleSort(arr));
 ```
 
-Above, the bubbleSort() function iterates over the array in two for loops and compares the values of two items in the array at a time. It swaps the larger value the place of the smaller value and continues to do so in the loop until the “left” value is no longer greater than the “right” value (the array is fully sorted).
+
 
 #### Insertion Sort
 
