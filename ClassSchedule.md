@@ -100,17 +100,19 @@
 #### WEEK 13
 - **M	4/4**: Recitation (Online)
 - **W	4/6**
-  - Introduce: Final Project DUE 4/25  
+  - Introduce: Final Project DUE 4/20
 
 #### WEEK 14
-- **M	4/11**: Recitation (Online)
+- **M	4/11**
+  - Project Consultations 
 - **W	4/13**
   - Project Consultations  
 
 #### WEEK 15
-- **M	4/18**: Recitation (Online)
-- **W	4/20**
+- **M	4/18**: 
   - Project Consultations
+- **W	4/20**
+  - Final Presentations 
 
 #### WEEK 16
 - **M	4/25**
