@@ -68,9 +68,8 @@
 #### WEEK 8 
 - **M	2/28**: Recitation (Online)
 - **W	3/2** (In-person)
-  - Discuss [Code Bias] & [Pros & Cons of Algorithms]
   - [Algorithms & Flowcharts](Documents/algorithmsflowchart.md)
-  - Introduce: [Assignment #7](Assignments/Assignment07.md) DUE 3/16   
+  - Introduce: [Assignment #7](Assignments/Assignment07.md) DUE 3/16 (Cancelled)   
 
 #### WEEK 9
 - **M	3/7** Spring Break- NO CLASS
@@ -85,6 +84,7 @@
 #### WEEK 11
 - **M	3/21**: Recitation (Online)
 - **W	3/23**
+  - Discuss [Code Bias] & [Pros & Cons of Algorithms]
   - More JavaScript Objects
   - Algorithms + Objects 
   - Introduce: Assignment #9 DUE 3/30
