@@ -79,8 +79,8 @@
 #### WEEK 10
 - **M	3/14**: Recitation (Online)
 - **W	3/16**
-  - Search & Sorting Algorithms
-  - Introduce: Assignment #8 DUE 3/23 
+  - [Search & Sorting Algorithms](Documents/sorting&search.md)
+  - Introduce: [Assignment #8](Assignments/Assignment08.md) DUE 3/23 
 
 #### WEEK 11
 - **M	3/21**: Recitation (Online)
