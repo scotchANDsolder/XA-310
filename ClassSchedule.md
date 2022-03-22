@@ -83,7 +83,7 @@
 
 #### WEEK 11
 - **M	3/21**: Recitation (Online)
-- **W	3/23**
+- **W	3/23** (In-person)
   - Discuss [Code Bias] & [Pros & Cons of Algorithms]
   - More JavaScript Objects
   - Algorithms + Objects 
@@ -92,31 +92,31 @@
 
 #### WEEK 12
 - **M	3/28**: Recitation (Online)
-- **W	3/30**
+- **W	3/30** (In-person)
   - JavaScript Libraries & DOM
   - Intro to Data Visualization
   - Introduce: Assignment #10 DUE 4/6
 
 #### WEEK 13
 - **M	4/4**: Recitation (Online)
-- **W	4/6**
+- **W	4/6** (In-person)
   - Introduce: Final Project DUE 4/20
 
 #### WEEK 14
-- **M	4/11**
+- **M	4/11** (Online)
   - Project Consultations 
-- **W	4/13**
+- **W	4/13** (Online)
   - Project Consultations  
 
 #### WEEK 15
-- **M	4/18**: 
+- **M	4/18** (Online)
   - Project Consultations
-- **W	4/20**
+- **W	4/20** (In-person)
   - Final Presentations 
 
 #### WEEK 16
-- **M	4/25**
+- **M	4/25** (In-person)
   - Final Presentations 
-- **W	4/27**
+- **W	4/27** (In-person)
   - Final Presentations 
 
