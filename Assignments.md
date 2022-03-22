@@ -5,3 +5,6 @@
 - [Assignment # 4](/Assignments/Assignment04.md): Working with Arrays
 - [Assignment # 5](/Assignments/Assignment05.md): Creating Objects
 - [Assignment # 6](/Assignments/Assignment06.md): Algorithmics Bias
+- [Assignment # 8](/Assignments/Assignment08.md): Sorting Algorithms
+- [Assignment # 9](/Assignments/Assignment09.md): Personal Objects
+
