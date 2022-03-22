@@ -33,7 +33,7 @@ This particular function accepts two parameters - a first name, and a last name.
 Our function also contains one method, named pet(). This uses an internal array of pet names and returns one at random.
 
 ### So How Do You Use This?
-To create, or instantiate, a new object, you use the new keyword with the name of the object you want to make, followed by any required parameters in parentheses:
+To create, or **instantiate**, a new object, you use the new keyword with the name of the object you want to make, followed by any required parameters in parentheses:
 ```
 const personOne = new Person("Barack","Obama");
 const personTwo = new Person("Michelle","Obama");
