@@ -11,7 +11,7 @@ A classic example relates objects to cars - there are many styles of cars, but t
 ### Object Constructors
 There are several ways to create objects.
 
-One way is to use a template of sorts called a constructor. This is a function that can create (or instantiate) new objects with set properties and methods, and can be used to create a number of similar types of data.
+One way is to use a template of sorts called a constructor. This is a function that can create (or **instantiate**) new objects with set properties and methods, and can be used to create a number of similar types of data.
 
 ```
 function Person(first,last) {
