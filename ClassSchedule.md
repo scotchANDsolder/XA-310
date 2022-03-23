@@ -87,7 +87,7 @@
   - Discuss Code Bias & Pros & Cons of Algorithms
   - [More JavaScript Objects](Documents/MoreObjects.md)
   - Algorithms + Objects 
-  - Introduce: Assignment #9 DUE 3/30
+  - Introduce: [Assignment #9](Assignments/Assignment09.md) DUE 3/30
   
 
 #### WEEK 12
