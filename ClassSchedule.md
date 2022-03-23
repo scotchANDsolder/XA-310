@@ -84,9 +84,8 @@
 #### WEEK 11
 - **M	3/21**: Recitation (Online)
 - **W	3/23** (In-person)
-  - Discuss Code Bias & Pros & Cons of Algorithms
+  - Discuss Code Bias & Pros & Cons of Algorithms - Group Activity
   - [More JavaScript Objects](Documents/MoreObjects.md)
-  - Algorithms + Objects 
   - Introduce: [Assignment #9](Assignments/Assignment09.md) DUE 3/30
   
 
