@@ -24,7 +24,7 @@ Plan your strategy - decompose the problem into smaller, discrete parts that you
 1. Create an HTML document, named "yourlastname_09.html"
 2. Inside a <script> tag, create a JavaScript program that does the following:
    - Create a Student _object constructor_ with properties and methods as described above
-   - Create 10 MSU student by [instantiating](Documents/MoreObjects.md) with the Student object constructor. Feel free to make up all the properties in the constructor.
+   - Create 10 MSU student by [instantiating](https://github.com/scotchANDsolder/XA-310/blob/main/Documents/MoreObjects.md) with the Student object constructor. Feel free to make up all the properties in the constructor.
    - Add these 10 MSU student objects to an array
    - Loop through the array and print out the following:
       - Names of students who are 20 years or older
