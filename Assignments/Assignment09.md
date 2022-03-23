@@ -2,7 +2,7 @@
 **DUE 3/30**
 
 #### The Problem
-For this assignment, you will need to create a JavaScript object contrustor that abstracts various properties and methods of a student at MSU. 
+For this assignment, you will need to create a JavaScript object constructor that abstracts various properties and methods of a student at MSU. 
 
 The Student object constructor must contain the following properties:
 -  A string for their name
