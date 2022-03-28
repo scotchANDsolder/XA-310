@@ -48,6 +48,6 @@ console.log(personOne.pet());
 
 console.log(personTwo.firstname);
 console.log(personTwo.lastname);
-console.log(personTwo.pet());
+console.log(personTwo.getPet());
 
 ```
