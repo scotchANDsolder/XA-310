@@ -19,7 +19,7 @@ function Person(first,last) {
   this.firstname = first;
   this.lastname = last;
 
-  this.pet = function(){
+  this.getPet = function(){
     let pets = ["Dog","Cat","Hamster","Fish"];
     return pets[Math.floor(Math.random()*pets.length)];
   }  
