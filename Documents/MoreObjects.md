@@ -44,7 +44,7 @@ This creates two new objects that are floating around in your program's memory. 
 ```
 console.log(personOne.firstname);
 console.log(personOne.lastname);
-console.log(personOne.pet());
+console.log(personOne.getPet());
 
 console.log(personTwo.firstname);
 console.log(personTwo.lastname);
