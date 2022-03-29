@@ -1,8 +1,12 @@
-### Creative Coding 
+### Visual Design with Code 
 DUE 4/6 before class
 
-#### The Problem
-For this assignment you will be using the p5.js JavaScript library. Zip all the required sketch in one zip file and upload it to D2L.
+The aim of this assignment to get your feet (or rather hands) wet in p5.js. For this assignment you will be using the p5.js JavaScript library which is to be included in your index.html. 
 
 Create separate sketches that do the following:
-- Place 10 
+- Recreate Piet Mondrian's [Composition 2](https://www.wikiart.org/en/piet-mondrian/composition-2)
+- Places 100 randomly colored circles on the canvas. HINT: You will have to use the [p5.js random function](https://p5js.org/reference/#/p5/random).
+- Draw 500 randomly places lines on the canvas
+- Create a self portrait of yourself 
+
+Zip all the sketches in one zip file and upload it to D2L.
