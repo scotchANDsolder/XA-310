@@ -92,24 +92,23 @@
 #### WEEK 12
 - **M	3/28**: Recitation (Online)
 - **W	3/30** (In-person)
-  - JavaScript Libraries & DOM
-  - Intro to Data Visualization
+  - JavaScript Libraries: [Intro to  p5.js](Documents/p5js.md)
   - Introduce: Assignment #10 DUE 4/6
 
 #### WEEK 13
 - **M	4/4**: Recitation (Online)
 - **W	4/6** (In-person)
-  - Introduce: Final Project DUE 4/20
+  - Data Visualization with P5.js
+  - Introduce: Assignment #11 DUE 4/13
 
 #### WEEK 14
-- **M	4/11** (Online)
-  - Project Consultations 
-- **W	4/13** (Online)
-  - Project Consultations  
+- **M	4/11**: Recitation (Online)
+- **W	4/13** (In-person)
+  - Hosting on Github
+  - Introduce: Final Project DUE 4/27  
 
 #### WEEK 15
-- **M	4/18** (Online)
-  - Project Consultations
+- **M	4/18**: Recitation (Online)
 - **W	4/20** (In-person)
   - Final Presentations 
 
