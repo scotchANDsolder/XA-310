@@ -93,7 +93,7 @@
 - **M	3/28**: Recitation (Online)
 - **W	3/30** (In-person)
   - JavaScript Libraries: [Intro to  p5.js](Documents/p5js.md)
-  - Introduce: Assignment #10 DUE 4/6
+  - Introduce: [Assignment #10](Assignments/Assignment10.md) DUE 4/6
 
 #### WEEK 13
 - **M	4/4**: Recitation (Online)
