@@ -110,11 +110,10 @@
 #### WEEK 15
 - **M	4/18**: Recitation (Online)
 - **W	4/20** (In-person)
-  - Final Presentations 
+  - Technical Checkin 
 
 #### WEEK 16
-- **M	4/25** (In-person)
-  - Final Presentations 
+- **M	4/25**: Recitation (Online) 
 - **W	4/27** (In-person)
-  - Final Presentations 
+  - Final Project Showcase 
 
