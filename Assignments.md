@@ -7,4 +7,6 @@
 - [Assignment # 6](/Assignments/Assignment06.md): Algorithmics Bias
 - [Assignment # 8](/Assignments/Assignment08.md): Sorting Algorithms
 - [Assignment # 9](/Assignments/Assignment09.md): Personal Objects
+- [Assignment # 10](/Assignments/Assignment10.md): Visual Design with p5.js
+
 
