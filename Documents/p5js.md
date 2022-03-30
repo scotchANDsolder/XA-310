@@ -7,6 +7,7 @@ and open-source because we believe software, and the tools to learn it, should b
 
 
 Some examples of what is possible with p5.js:
+- [Open Processing](https://openprocessing.org/browse/#)
 - [Happy Coding](https://happycoding.io/examples/p5js/)
 - [From p5.js](https://p5js.org/examples/)
 
