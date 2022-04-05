@@ -53,6 +53,70 @@ Majority of the time we do not put our data directly into our code instead we re
 
 Example of [CSV file](https://raw.githubusercontent.com/scotchANDsolder/XA-310/main/Documents/username.csv) that shows usernames and names of people. 
 
-CSV files can be opened in MS Excel. Doing so shows you all the columns with all the data. 
+CSV files can be opened in MS Excel. Doing so shows you all the columns with all the data. To do so, click on the link above and then right click and select save-as. This should download the CSV file to your computer. 
 
-Some data sources
+To read the data in p5.js we will need the following commands:
+```
+let table = loadTable(“username.csv”, “csv”,”header”);
+
+let numRows = table.getRowCount();
+
+let fNAme = table.getColumn(“First name”);
+```
+[loadTable()](https://p5js.org/reference/#/p5/loadTable) will load the dataset from the CSV file into p5.js. While getRowCount() gets the number of rows in the file. We can also select specific data from the columns by calling getColumn()
+
+### Another Example
+Let's do a deep dive into the following: 
+
+```
+let table;
+
+//load the CSV before the program runs
+function preload() {
+  table = loadTable('https://raw.githubusercontent.com/scotchANDsolder/XA-310/main/Documents/data.csv', 'csv', 'header');
+}
+
+function setup() {
+  createCanvas(400, 400);
+  background(220);
+
+  //get the amount of rows in the CSV
+  let numRows = table.getRowCount();
+  print(numRows);
+  //get the column titled Miles
+  let happyIndex = table.getColumn("Happy Index");
+  let state = table.getColumn("State");
+  let region = table.getColumn("Region");
+  
+
+  //iterate over the number of rows
+  for (let i = 0; i < numRows; i++) {
+
+    //use the value of i to move the rectangle down
+    let mover = 20 + (i * 20);
+    let newIndex = map(happyIndex[i], 0, 10, 10, 200);
+   
+
+    let col = 0;
+    if (region[i] == "East") {
+      col = color('#bab39e');
+    } else if (region[i] == "West") {
+      col = color(255, 0, 0);
+    } 
+
+
+    print(col);
+    fill(col);
+    //change the length of the rectangle 
+    //based on the amount of miles ran
+    rect(50, mover, newIndex, 10);
+
+    //write the amount of miles to the 
+    //screen before each rectangle
+    textSize(10);
+    text(state[i], 20, mover + 10);
+
+  }
+}
+```
+
