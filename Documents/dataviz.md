@@ -11,7 +11,7 @@ Some Examples of [Data Visualization](https://www.tableau.com/learn/articles/bes
 
 
 ## Displaying Data
-NOTE: All the examples below are for p5.js i.e. you will be coding in the [sketch.js](Documents/p5js.md) file in either the draw or setup function.
+NOTE: All the examples below are for p5.js i.e. you will be coding in the [sketch.js](p5js.md) file in either the draw or setup function.
 
 ### Simplest Data Visualization
 As we’ve seen before,_ for loop_ helps to repeat actions in our programs. For the first example we are going to put our data in an array. 
@@ -50,7 +50,7 @@ function draw() {
 
 ### Reading data from CSV files
 Majority of the time we do not put our data directly into our code instead we read them from files containing the dataset. In this example we will read data from a CSV file i.e. _common seperated value_ file.
-Example of [CSV file](Documents/username.csv) that shows usernames and names of people. 
+Example of [CSV file](username.csv) that shows usernames and names of people. 
 
 
 Some data sources
