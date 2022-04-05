@@ -8,5 +8,5 @@
 - [Assignment # 8](/Assignments/Assignment08.md): Sorting Algorithms
 - [Assignment # 9](/Assignments/Assignment09.md): Personal Objects
 - [Assignment # 10](/Assignments/Assignment10.md): Visual Design with p5.js
-
-
+- [Assignment # 11](/Assignments/Assignment11.md): Data Visualization with p5.js
+- [Final Project]
