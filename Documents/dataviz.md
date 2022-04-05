@@ -68,6 +68,8 @@ let fNAme = table.getColumn(“First name”);
 ### Another Example
 Let's do a deep dive into the following code. We are using this [CSV file](data.csv) for this example: 
 
+In this example we will try to make a bar graph to respresent the happines index of each state.
+
 ```
 let table;
 
@@ -119,11 +121,16 @@ function setup() {
   }
 }
 ```
+You will notice we are using a URL in the loadTable() function. This is because local CSV cannot be opended in the browser. So we must host our CSV file online somewhere so we can access it. In this example we are hosting our CSV file on Github. 
 
-- You will notice we are using a URL in the loadTable() function. This is because local CSV cannot be opended in the browser. So we must host our CSV file online somewhere so we can access it. In this example we are hosting our CSV file on Github. 
-- We are also using a new function i.e [map()](https://p5js.org/reference/#/p5/map). This function changes the range of a particular data. In our example, the Happy Index ranges from 0 to 10 but we are scaling this to 10 to 200 so that we can draw the corresponding rectangle.
 
-The visualization looks like this:
+We are also using a new function i.e [map()](https://p5js.org/reference/#/p5/map). This function changes the range of a particular data. In our example, the Happy Index ranges from 0 to 10 but we are scaling this to 10 to 200. We are doing so because we want to draw a rectangles that will be displayed properly. 
+If we do not use map(), this will be the output:
+
+![image](https://user-images.githubusercontent.com/70717743/161854903-1d83b1cc-59af-44d8-bafd-381bbef44ef9.png)
+
+
+Using map() give us a better visualization:
 
 ![image](https://user-images.githubusercontent.com/70717743/161847352-0670c4c1-d8af-4aa8-89d6-2ae26a36ed8b.png)
 
