@@ -98,8 +98,8 @@
 #### WEEK 13
 - **M	4/4**: Recitation (Online)
 - **W	4/6** (In-person)
-  - Data Visualization with P5.js
-  - Introduce: Assignment #11 DUE 4/13
+  - [Data Visualization with P5.js](Documents/dataviz.md)
+  - Introduce: [Assignment #11](Assignments/Assignment11.md) DUE 4/13
 
 #### WEEK 14
 - **M	4/11**: Recitation (Online)
