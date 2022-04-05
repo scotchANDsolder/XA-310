@@ -108,10 +108,10 @@ function setup() {
     print(col);
     fill(col);
     //change the length of the rectangle 
-    //based on the amount of miles ran
+    //based on the Happy Index
     rect(50, mover, newIndex, 10);
 
-    //write the amount of miles to the 
+    //write the state name to the 
     //screen before each rectangle
     textSize(10);
     text(state[i], 20, mover + 10);
