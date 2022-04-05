@@ -66,7 +66,7 @@ let fNAme = table.getColumn(“First name”);
 [loadTable()](https://p5js.org/reference/#/p5/loadTable) will load the dataset from the CSV file into p5.js. While getRowCount() gets the number of rows in the file. We can also select specific data from the columns by calling getColumn()
 
 ### Another Example
-Let's do a deep dive into the following: 
+Let's do a deep dive into the following code. We are using this [CSV file](data.csv) for this example: 
 
 ```
 let table;
@@ -83,7 +83,7 @@ function setup() {
   //get the amount of rows in the CSV
   let numRows = table.getRowCount();
   print(numRows);
-  //get the column titled Miles
+  //get all the Columns from the CSV file 
   let happyIndex = table.getColumn("Happy Index");
   let state = table.getColumn("State");
   let region = table.getColumn("Region");
@@ -119,4 +119,11 @@ function setup() {
   }
 }
 ```
+
+- You will notice we are using a URL in the loadTable() function. This is because local CSV cannot be opended in the browser. So we must host our CSV file online somewhere so we can access it. In this example we are hosting our CSV file on Github. 
+- We are also using a new function i.e [map()](https://p5js.org/reference/#/p5/map). This function changes the range of a particular data. In our example, the Happy Index ranges from 0 to 10 but we are scaling this to 10 to 200 so that we can draw the corresponding rectangle.
+
+The visualization looks like this:
+
+![image](https://user-images.githubusercontent.com/70717743/161847352-0670c4c1-d8af-4aa8-89d6-2ae26a36ed8b.png)
 
