@@ -63,7 +63,7 @@ let numRows = table.getRowCount();
 
 let fNAme = table.getColumn(“First name”);
 ```
-[loadTable()](https://p5js.org/reference/#/p5/loadTable) will load the dataset from the CSV file into p5.js. While getRowCount() gets the number of rows in the file. We can also select specific data from the columns by calling getColumn()
+[loadTable()](https://p5js.org/reference/#/p5/loadTable) will load the dataset from the CSV file into p5.js. While getRowCount() gets the number of rows in the file. We can also select specific data from the columns by calling getColumn(). In out example above _fName_ become an array contain all the elements in the _First name_ coloumn. 
 
 ### Another Example
 Let's do a deep dive into the following code. We are using this [CSV file](data.csv) for this example: 
