@@ -30,7 +30,7 @@ table = loadTable('https://raw.githubusercontent.com/scotchANDsolder/XA-310/main
 ```
 3. Read in the Borough, Latitude and Longitude columns to create 3 separate arrays. 
 4. Loop through these arrays and plot circles in the following way:
-   - Scale the latitude data from its orignal values to the width of your canvas. HINT: [We did this in our class example](Documents/dataviz.md#another-example).
+   - Scale the latitude data from its orignal values to the width of your canvas. HINT: [We did this in our class example](https://github.com/scotchANDsolder/XA-310/blob/main/Documents/dataviz.md#another-example).
    - Scale the longitude data from its orignal values to the height of your canvas.
    - Check which Borough the particular data belongs to and assign it a color
    - Draw a circle accordingly  
