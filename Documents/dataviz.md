@@ -50,7 +50,9 @@ function draw() {
 
 ### Reading data from CSV files
 Majority of the time we do not put our data directly into our code instead we read them from files containing the dataset. In this example we will read data from a CSV file i.e. _common seperated value_ file.
-Example of [CSV file](username.csv) that shows usernames and names of people. 
 
+Example of [CSV file](https://raw.githubusercontent.com/scotchANDsolder/XA-310/main/Documents/username.csv) that shows usernames and names of people. 
+
+CSV files can be opened in MS Excel. Doing so shows you all the columns with all the data. 
 
 Some data sources
