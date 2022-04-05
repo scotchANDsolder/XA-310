@@ -134,3 +134,10 @@ Using map() give us a better visualization:
 
 ![image](https://user-images.githubusercontent.com/70717743/161847352-0670c4c1-d8af-4aa8-89d6-2ae26a36ed8b.png)
 
+When working with data – we might want to rescale the value that we’ve been working with to work most clearly within the canvas. In our example of the Happy Index varries between 0 and 10. If we only showed a difference of 0 and 10 pixels on the canvas, then the visual difference to our eyes would be minuscule. To make our these differnces apparent, we want to rescale this value for the canvas say between 10 and 200. 
+
+map() works in the following way:
+```
+let newValue = map(oldValue, oldMinimumRange, oldMaximumRange, newMinRange, newMaximumRange);
+```
+
