@@ -104,13 +104,14 @@
 #### WEEK 14
 - **M	4/11**: Recitation (Online)
 - **W	4/13** (In-person)
-  - Hosting on Github
-  - Introduce: Final Project DUE 4/27  
+  - Discussion on Ethics + Technology + Design 
 
 #### WEEK 15
 - **M	4/18**: Recitation (Online)
+  - Hosting on Github
+  - Introduce: Final Project DUE 4/27
 - **W	4/20** (In-person)
-  - Technical Checkin 
+  - Technical Check ins 
 
 #### WEEK 16
 - **M	4/25**: Recitation (Online) 
