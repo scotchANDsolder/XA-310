@@ -1,4 +1,4 @@
-Country,Year,Top 10% income share,Top 5% income share,Top 1% income share,Top 0.5% income share,Top 0.1% income share,Top 0.05% income share,Top 0.01% income share
+Country,Year,10,5,1,0.5,0.1,0.05,0.01
 Argentina,1932,,,18.77,14.58,7.52,,2.49
 Argentina,1933,,,17.18,13.35,6.8,,2.39
 Argentina,1934,,,18.06,14.02,7.28,,2.45
