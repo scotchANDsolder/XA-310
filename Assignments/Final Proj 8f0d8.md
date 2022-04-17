@@ -106,11 +106,14 @@ Write JavaScript code that computes the following:
 2. Average hours of sleep per day 
 3. Average hours spent away from home, per day
 4. Average hours when at home and not sleeping, per day
+5. Location with most water comsuption over 4 days
+6. Name of _most time spent at location_ outside of home
 
-Additionally develop 2 other queries for your data based on the misc. activity you decided to log in Part 1. For example, in my case I chose to track the times I was working on or using my laptop. So my 2 additional questions could be:
+Additionally develop 3 other queries for your data based on the misc. activity you decided to log in Part 1. For example, in my case I chose to track the times I was working on or using my laptop. So my 3 additional questions could be:
 
 1. Average computer usage
 2. Average computer usage at home
+3. Location with most computer usage
 
 Just as for other assignments, create an HTML document named "yourlastname_01.html" and put all your code in the <script> tags. Ensure provide appropriate comments in the code that indicate your understanding of the logic of your program. 
 
@@ -125,7 +128,7 @@ Based on your findings from Part 2, write a min. 500 word analyses of what you f
 Additionally answers the following reflective questions:
 
 - What were some limitation of this process?
-- Do you think your computational results/visualization accurate represent your personal experience? if yes, how so? if no, why not?
+- Do you think your computational results accurate represent your personal experience? if yes, how so? if no, why not?
 - What could you do to get more accurate results and inferences?
 - If you were to repeat this activity, what would you do differently?
 
