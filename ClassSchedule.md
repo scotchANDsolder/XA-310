@@ -107,14 +107,13 @@
   - Discussion on Ethics + Technology + Design 
 
 #### WEEK 15
-- **M	4/18**: Recitation (Online)
-  - Hosting on Github
-  - Introduce: Final Project DUE 4/27
+- **M	4/18**: (Online)
+  - Introduce: [Final Project](/Assignments/finalproject.md) DUE 4/29
 - **W	4/20** (In-person)
   - Technical Check ins 
 
 #### WEEK 16
 - **M	4/25**: Recitation (Online) 
 - **W	4/27** (In-person)
-  - Final Project Showcase 
+  - Technical Check ins  
 
