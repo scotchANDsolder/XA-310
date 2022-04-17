@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Country,Year,Top 10% income share,Top 5% income share,Top 1% income share,Top 0.5% income share,Top 0.1% income share,Top 0.05% income share,Top 0.01% income share,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Argentina,1932,,,18.77,14.58,7.52,,2.49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Argentina,1933,,,17.18,13.35,6.8,,2.39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2181,6 +2182,8 @@ United States,2006,45.26,33.32,17.98,14.07,7.97,,3.35,,,,,,,,,,,,,,,,,,,,,,,,,,,
 United States,2007,45.51,33.64,18.29,14.39,8.23,,3.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 United States,2008,45.6,33.36,17.67,13.75,7.77,,3.34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 =======
+=======
+>>>>>>> parent of d653b4f (Add files via upload)
 State,Happy Index,Region
 IP,2,East
 GH,3,West
@@ -2192,4 +2195,7 @@ NN,7,West
 ET,9,East
 SW,3,East
 DF,5,West
+<<<<<<< HEAD
+>>>>>>> parent of d653b4f (Add files via upload)
+=======
 >>>>>>> parent of d653b4f (Add files via upload)
