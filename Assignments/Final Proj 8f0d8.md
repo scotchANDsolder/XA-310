@@ -60,23 +60,27 @@ Follow the steps outlined below to convert you data in JSON:
 1. Tabulate Data: Begin by creating a table in either Google Sheet or MS Excel. If you have been gathering your data digitally you should already have it, but if you have been using a notebook ensure you have your data in a digital format.
 2. Column Headings: In order of us to use JSON properly we must first clean up the headings for each of our column. Each column must contain only **one** word with no numbers, spaces or special characters. For example, in my example I will change my second column ‘Water (oz)’ to ‘water’. Additionally I will also change my time values from 12 hour format to 24 hour format. I will also update these values so they are represented by simple numbers ‘12:00 AM’ to ‘0’ , ‘1:00 AM’ to ‘1’......’1:00 PM’ to ‘13’ , ‘2:00 PM’ to ‘14’......etc. Here is example of before and after you have cleaned up the table
 
-                                **BEFORE**
+| **BEFORE** | **AFTER** |
+| ------------- | ------------- |
+| ![Untitled](Final%20Proj%208f0d8/Untitled%201.png)  | ![Untitled](Final%20Proj%208f0d8/Untitled%202.png) |
 
-![Untitled](Final%20Proj%208f0d8/Untitled%201.png)
+                                
 
-                         **AFTER**
 
-![Untitled](Final%20Proj%208f0d8/Untitled%202.png)
 
-1. Converting to JSON: Select all the columns and rows in your table, including your column headings (each day should be done separately) and copy/paste it to this website: [https://csvjson.com/csv2json](https://csvjson.com/csv2json). This website will automatically generate a JSON for your table.  
+                         
+
+
+
+3. Converting to JSON: Select all the columns and rows in your table, including your column headings (each day should be done separately) and copy/paste it to this website: [https://csvjson.com/csv2json](https://csvjson.com/csv2json). This website will automatically generate a JSON for your table.  
 
 ![Untitled](Final%20Proj%208f0d8/Untitled%203.png)
 
-1. Importing JSON: Copy and paste the generate JSON into a new JavaScript tag in an HTML file. Note that I am creating a variable to for this data. You will do this for all 4 years separately. 
+4. Importing JSON: Copy and paste the generate JSON into a new JavaScript tag in an HTML file. Note that I am creating a variable to for this data. You will do this for all 4 years separately. 
 
 ![Untitled](Final%20Proj%208f0d8/Untitled%204.png)
 
-1. Using JSON: Once you copy the JSON data in your text editor that it is a long array. Notice the square bracket in the beginning and end of the data. JSON is essentially a giant array of objects. And because it an an array you can access the data by calling on the array index and object key value. For example:
+5. Using JSON: Once you copy the JSON data in your text editor that it is a long array. Notice the square bracket in the beginning and end of the data. JSON is essentially a giant array of objects. And because it an an array you can access the data by calling on the array index and object key value. For example:
 
 ```jsx
 console.log(day1[0]) // This will print the data for 12:00 AM
@@ -88,7 +92,7 @@ console.log(day1.length) // This will print 24 i.e. the total hour of your data
 
 I would recommend testing the you have correctly converted your data out before moving on to the next step.  You can test it by using the code examples in step 5.
 
-1. At the end of this part you should have 4 giant object arrays (or JSON) i.e. day1, day2, day3 and day4 will all your logged activities.
+6. At the end of this part you should have 4 giant object arrays (or JSON) i.e. day1, day2, day3 and day4 will all your logged activities.
 
 ### Making sense of your data
 
