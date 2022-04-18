@@ -1,12 +1,12 @@
 # Final Project: Quantified Self
 
-## DUE: Monday 4/29 by 5:00 pm
+## DUE: Friday 4/29 by 5:00 pm
 
 The goal of this project is for you to construct a story of yourself, using computational tools that you had learned this semester. You will log, collect, organize and make sense of data about yourself to develop a personal narrative that highlights patterns and insight in your own habits and daily life. 
 
 Tracking and understand how you spend your time in day can be helpful (beyond just completing this project) and provide the following benefits:
 
-- Gaining better control over your time time
+- Gaining better control over your time
 - Developing and understanding how to be more realistic and organized
 - You can get better at estimating how long your tasks take
 - It can lead to being more productive
