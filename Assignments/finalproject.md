@@ -1,12 +1,12 @@
 # Final Project: Quantified Self
 
-## DUE: Monday 4/29 by 5:00 pm
+## DUE: Friday 4/29 by 5:00 pm
 
 The goal of this project is for you to construct a story of yourself, using computational tools that you had learned this semester. You will log, collect, organize and make sense of data about yourself to develop a personal narrative that highlights patterns and insight in your own habits and daily life. 
 
 Tracking and understand how you spend your time in day can be helpful (beyond just completing this project) and provide the following benefits:
 
-- Gaining better control over your time time
+- Gaining better control over your time
 - Developing and understanding how to be more realistic and organized
 - You can get better at estimating how long your tasks take
 - It can lead to being more productive
@@ -18,7 +18,7 @@ There are 3 parts of this assignment with each with its own deliverables.  All a
 
 To begin this project you will be first asked to collected data on yourself. This information will be used for the subsequent parts of the project, hence doing this properly will yield better results for analyses and reflection. 
 
-Over this next week you should maintain a log your daily activities. You can do this in a notebook with pen/pencil or using Google Sheets on your phone. There is no optimal tool and you should decided what works best for your. Whichever way you decided to log your activities, I recommendation using a something that is easily accessible and something you can carry with you at all times. Some might prefer a small notebook that fits in their pocket or for most their phone works best. Either way make sure to log everything in the moment as things happen i.e. do not wait until the end of the day to recall the events of your day. You memory will fail you and you will be left with faulty data. Remember the point here is to discover new insights in your own behavior and so your data should be as true as a possible. 
+Over this next week you should maintain a log your daily activities. You can do this in a notebook with pen/pencil or using Google Sheets on your phone. There is no optimal tool and you should decided what works best for your. Whichever way you decided to log your activities, I recommend using a something that is easily accessible and something you can carry with you at all times. Some might prefer a small notebook that fits in their pocket or for most their phone works best. Either way make sure to log everything in the moment as things happen i.e. do not wait until the end of the day to recall the events of your day. You memory will fail you and you will be left with faulty data. Remember the point here is to discover new insights in your own behavior and so your data should be as true as a possible. 
 
 You must maintain this log for at least 4 days, although I recommend doing it ever longer. Having more data to work with will give you better insights in yourself. You may pick any 4 days, but ensure you do this first before moving onto the next parts of the assignment. 
 
