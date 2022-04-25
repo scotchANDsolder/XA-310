@@ -115,7 +115,7 @@ Additionally develop 3 other queries for your data based on the misc. activity y
 2. Average computer usage at home
 3. Location with most computer usage
 
-Just as for other assignments, create an HTML document named "yourlastname_01.html" and put all your code in the <script> tags. Ensure provide appropriate comments in the code that indicate your understanding of the logic of your program. 
+Just as for other assignments, create an HTML document named "yourlastname_finalproject.html" and put all your code in the <script> tags. Ensure provide appropriate comments in the code that indicate your understanding of the logic of your program. 
 
 ## Part 3: Finding Patterns in yourself
 
